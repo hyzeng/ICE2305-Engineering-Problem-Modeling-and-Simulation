@@ -1,4 +1,4 @@
-# ICE2305-Engineering-Problem-Modeling-and-Simulation
+# ICE2305-Modeling and Simulation of Engineering Problem
 ICE2305-工程问题建模与仿真
 
 ## Environment: MATLAB R2020b
